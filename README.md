@@ -1,5 +1,5 @@
-# sct
-# Eksplorasi Teknologi
+# SCT
+## Eksplorasi Teknologi
 
 Repository ini dibuat untuk mendokumentasikan berbagai pembelajaran, eksperimen, dan proyek kecil seputar dunia teknologi.
 
@@ -26,8 +26,9 @@ Beberapa contoh topik yang akan dibahas:
 - Membuat dokumentasi setup server pribadi
 - Menjelajahi DevOps dasar (Docker, CI/CD)
 - Membangun proyek mini berbasis web
+- Belajar cyber security
 
 ---
 
-✍️ Dibuat oleh: **[Nama Kamu]**  
+✍️ Dibuat oleh: **[sct]**  
 📅 Tanggal: **10 November 2025**
